@@ -1,0 +1,17 @@
+{
+  "name": "shzr03-marksheet",
+  "version": "1.0.0",
+  "description": "marksheet with inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hina zehra",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
